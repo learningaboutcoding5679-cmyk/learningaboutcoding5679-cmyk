@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm a Passionate Developer! 👋
 
-<!--
-**learningaboutcoding5679-cmyk/learningaboutcoding5679-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I love exploring new technologies and building interesting projects while keeping my coding journey transparent and my identity private.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Interests
+- 💻 Currently learning: **Web Development **
+- 🚀 Interested in: **Open Source, Automation, and Problem Solving**
+- ✍️ Focusing on: **Writing clean and efficient code**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Stats
+- 🔭 I’m currently working on: **Personal projects to improve my skills**
+- 🌱 I’m currently learning: **Advanced coding concepts and best practices**
+
+### 🤝 Let's Connect
+- If you like my work, feel free to **Star** my repositories!
+- For any queries or collaborations, please open an **Issue** in any of my public projects.
+
+---
+*"Code is like humor. When you have to explain it, it’s bad."*
+
